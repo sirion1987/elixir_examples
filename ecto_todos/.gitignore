@@ -1,0 +1,12 @@
+*.ez
+/.fetch
+/_build/
+/assets/node_modules/
+/cover/
+/deps/
+/doc/
+/priv/static/
+
+ecto_todos-*.tar
+erl_crash.dump
+npm-debug.log
